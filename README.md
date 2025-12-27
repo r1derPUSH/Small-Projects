@@ -40,7 +40,3 @@ Here you will find a collection of my small to medium projects that I am still w
 ## 📌 Connect
 
 - GitHub: [@r1derPUSH](https://github.com/r1derPUSH)
-
----
-
-Made with ❤️ by **r1derPUSH**
