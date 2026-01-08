@@ -7,7 +7,7 @@ Here you will find a collection of my small to medium projects that I am still w
 
 ---
 
-## 📂 Projects List
+## 📂 Projects 
 0. [ 🛒 Web Store ](https://github.com/r1derPUSH/web-store) - Web store based on API requests (not for all devices, was built for learning. Not Adaptive website)
 1. [💱 Currency App](https://github.com/r1derPUSH/currency-app) – A simple app to convert currencies.
 2. [👾 Monster Fixer](https://github.com/r1derPUSH/monster-fixer) – Fun monster-related project with interactive features.
